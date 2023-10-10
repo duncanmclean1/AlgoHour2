@@ -1,1 +1,1 @@
-Submission for Algo hour 2
+Repository for all required assignments
